@@ -1,8 +1,8 @@
 ## 👋 **Hi, I’m [Gareth Ng](https://garethng.com)**
 
-[](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMGMtNi42MjcgMC0xMiA1LjM3My0xMiAxMnM1LjM3MyAxMiAxMiAxMiAxMi01LjM3MyAxMi0xMi01LjM3My0xMi0xMi0xMnptLTIgMTZoLTJ2LTZoMnY2em0tMS02Ljg5MWMtLjYwNyAwLTEuMS0uNDk2LTEuMS0xLjEwOSAwLS42MTIuNDkyLTEuMTA5IDEuMS0xLjEwOXMxLjEuNDk3IDEuMSAxLjEwOWMwIC42MTMtLjQ5MyAxLjEwOS0xLjEgMS4xMDl6bTggNi44OTFoLTEuOTk4di0yLjg2MWMwLTEuODgxLTIuMDAyLTEuNzIyLTIuMDAyIDB2Mi44NjFoLTJ2LTZoMnYxLjA5M2MuODcyLTEuNjE2IDQtMS43MzYgNCAxLjU0OHYzLjM1OXoiLz48L3N2Zz4=)
+I'm Gareth, a front-end developer who specializes in React.js. After briefly working in the film industry as a camera assistant and [cinematographer](gcn12.github.io/film-portfolio), I decided to make a career change into the programming world.
 
-I'm a front-end developer who specializes in React.js. After briefly working in the film industry I decided to make a career change into the programming world.
+[test](https://firebasestorage.googleapis.com/v0/b/portfolio-assets.appspot.com/o/iconmonstr-instagram-14-240.png?alt=media&token=a73af768-a512-4992-9c36-93beb633b44c)
 
   Thanks for visiting! ![visitors](https://visitor-badge.glitch.me/badge?page_id=garethng.githubreadme)
   
