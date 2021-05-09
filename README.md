@@ -1,6 +1,6 @@
 ## 👋 **Hi, I’m [Gareth Ng](https://garethng.com)**
 
-I'm Gareth, a front-end developer who specializes in React.js. After briefly working in the film industry as a camera assistant and [cinematographer](gcn12.github.io/film-portfolio), I decided to make a career change into the programming world.
+I'm Gareth, a front-end developer who specializes in React.js. After working in the film industry as a camera assistant and [cinematographer](gcn12.github.io/film-portfolio), I decided to make a career change into the programming world.
 
 - 📚Currently learning: Jest and Next.js
 - 📄 [Resume](https://firebasestorage.googleapis.com/v0/b/portfolio-assets.appspot.com/o/Resume%20Do%20not%20delete.pdf?alt=media&token=d2029bb0-a509-44f8-8e3a-bee5c756d552) 
