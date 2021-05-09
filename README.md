@@ -1,4 +1,4 @@
-#H1 👋 **Hi, I’m Gareth Ng**
+# H1 👋 **Hi, I’m Gareth Ng**
 
 I'm a front-end developer who specializes in React.js. After briefly working in the film industry I decided to make a career change into the programming world.
 
