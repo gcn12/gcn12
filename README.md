@@ -2,9 +2,7 @@
 
 I'm Gareth, a front-end developer who specializes in React.js. After briefly working in the film industry as a camera assistant and [cinematographer](gcn12.github.io/film-portfolio), I decided to make a career change into the programming world.
 
-[<img src='https://firebasestorage.googleapis.com/v0/b/portfolio-assets.appspot.com/o/iconmonstr-instagram-14-240.png?alt=media&token=a73af768-a512-4992-9c36-93beb633b44c' alt='instagram logo link' height='40' />](https://instagram.com/gareth.ng)
-
-[<img src='https://firebasestorage.googleapis.com/v0/b/portfolio-assets.appspot.com/o/iconmonstr-linkedin-4-240.png?alt=media&token=4bbcde45-0dc1-4509-bce0-a99eb11235a6' alt='linkedin logo link' height='40' />](https://www.linkedin.com/in/garethcng/
+[<img src='https://firebasestorage.googleapis.com/v0/b/portfolio-assets.appspot.com/o/iconmonstr-instagram-14-240.png?alt=media&token=a73af768-a512-4992-9c36-93beb633b44c' alt='instagram logo link' height='40' />](https://instagram.com/gareth.ng) [<img src='https://firebasestorage.googleapis.com/v0/b/portfolio-assets.appspot.com/o/iconmonstr-linkedin-4-240.png?alt=media&token=4bbcde45-0dc1-4509-bce0-a99eb11235a6' alt='linkedin logo link' height='40' />](https://www.linkedin.com/in/garethcng/)
 
   Thanks for visiting! ![visitors](https://visitor-badge.glitch.me/badge?page_id=garethng.githubreadme)
   
