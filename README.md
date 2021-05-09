@@ -4,6 +4,7 @@ I'm Gareth, a front-end developer who specializes in React.js. After briefly wor
 
 - 📚Currently learning: Jest and Next.js
 - 📄 [Resume](https://firebasestorage.googleapis.com/v0/b/portfolio-assets.appspot.com/o/Resume%20Do%20not%20delete.pdf?alt=media&token=d2029bb0-a509-44f8-8e3a-bee5c756d552) 
+- ✉️ Feel free to contact me at [garethng.com](https://garethng.com)
 
 [<img src='https://firebasestorage.googleapis.com/v0/b/portfolio-assets.appspot.com/o/iconmonstr-linkedin-4-240.png?alt=media&token=4bbcde45-0dc1-4509-bce0-a99eb11235a6' alt='linkedin logo link' height='40' />](https://www.linkedin.com/in/garethcng/) [<img src='https://firebasestorage.googleapis.com/v0/b/portfolio-assets.appspot.com/o/iconmonstr-instagram-14-240.png?alt=media&token=a73af768-a512-4992-9c36-93beb633b44c' alt='instagram logo link' height='40' />](https://instagram.com/gareth.ng) 
 
