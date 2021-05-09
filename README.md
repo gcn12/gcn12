@@ -4,7 +4,7 @@
 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=garethng.githubreadme)
   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcn12&layout=compact)](https://github.com/gcn12/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcn12)](https://github.com/gcn12/github-readme-stats)
 
 <!---
 gcn12/gcn12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
