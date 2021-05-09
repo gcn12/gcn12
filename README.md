@@ -2,7 +2,7 @@
 
 I'm Gareth, a front-end developer who specializes in React.js. After briefly working in the film industry as a camera assistant and [cinematographer](gcn12.github.io/film-portfolio), I decided to make a career change into the programming world.
 
-<img src='https://firebasestorage.googleapis.com/v0/b/portfolio-assets.appspot.com/o/iconmonstr-instagram-14-240.png?alt=media&token=a73af768-a512-4992-9c36-93beb633b44c' alt='linkedin logo link' height='100' />
+[<img src='https://firebasestorage.googleapis.com/v0/b/portfolio-assets.appspot.com/o/iconmonstr-instagram-14-240.png?alt=media&token=a73af768-a512-4992-9c36-93beb633b44c' alt='linkedin logo link' height='25' />](instagram.com)
 
   Thanks for visiting! ![visitors](https://visitor-badge.glitch.me/badge?page_id=garethng.githubreadme)
   
