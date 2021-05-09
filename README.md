@@ -2,6 +2,8 @@
 - 🌱 I’m currently learning TypeScript and Next.js
 - 📫 Feel free to contact me at garethng.com
 
+I'm a front-end developer who specializes in React.js. After briefly working in the film industry I decided to make a career change into the programming world.
+
   Thanks for visiting! ![visitors](https://visitor-badge.glitch.me/badge?page_id=garethng.githubreadme)
   
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcn12)](https://github.com/gcn12/github-readme-stats)
